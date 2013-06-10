@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://askeluv.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://svanevik.me
+title: Alexander Svanevik
+subtitle: Analytics, visualisations and sheer data joy
+author: Alexander Svanevik
 simple_search: http://google.com/search
 description:
 
