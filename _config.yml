@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://askeluv.github.com
-title: Alexander Svanevik
+title: svanevik.me
 subtitle: Analytics, visualisations and sheer data joy
 author: Alexander Svanevik
 simple_search: http://google.com/search
@@ -69,16 +69,16 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: askeluv
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 113645437293736835847
 googleplus_hidden: false
 
 # Pinboard
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: svanevikme
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-41864832-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
