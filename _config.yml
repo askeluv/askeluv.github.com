@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://askeluv.github.com
-title: svanevik.me
-subtitle: Analytics, visualisations and sheer data joy
+title: Thoughts and Data
+subtitle: by Alexander Svanevik
 author: Alexander Svanevik
 simple_search: http://google.com/search
-description:
+description: I blog about data science, analytics, visualisations, entrepreneurship, startups, consulting, machine learning, and languages.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
