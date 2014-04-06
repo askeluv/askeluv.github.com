@@ -10,7 +10,7 @@ Firstly, you might want to bookmark this blog if you're interested in any of the
 
 Apart from blogging about the topics above, I'll use this blog to share some of my hobby projects.
 
-Like many others, I spend [most of my time working](http://www.getchronos.com/s?id=b7oi_knQxRj5I3UUa3WjIw) (thanks, [Chronos](https://www.getchronos.com)!). What I do is consulting, specifically in Information Management consulting. This basically means I help large corporations and organisations use data, analyses and facts to make better decisions. 
+Like many others, I spend [most of my time working](http://www.getchronos.com/s?id=b7oi_knQxRj5I3UUa3WjIw) (thanks, [Chronos](https://www.getchronos.com)!). What I do is consulting, specifically Information Management consulting. This basically means I help large corporations and organisations use data, analyses and facts to make better decisions. 
 
 You might call me a [data scientist](http://www.economist.com/node/15557443), and I wouldn't argue.
 
