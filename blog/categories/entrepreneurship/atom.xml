@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Entrepreneurship | Thoughts and Data]]></title>
+  <link href="http://askeluv.github.io/blog/categories/entrepreneurship/atom.xml" rel="self"/>
+  <link href="http://askeluv.github.io/"/>
+  <updated>2014-07-22T21:51:42+02:00</updated>
+  <id>http://askeluv.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Svanevik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Startup Engineering]]></title>
+    <link href="http://askeluv.github.io/blog/2013/06/19/startup-engineering/"/>
+    <updated>2013-06-19T13:51:00+02:00</updated>
+    <id>http://askeluv.github.io/blog/2013/06/19/startup-engineering</id>
+    <content type="html"><![CDATA[<p>I just enrolled in Coursera&rsquo;s course <a href="https://www.coursera.org/course/startup">Startup Engineering</a>, which looks really good. The course is held by <a href="https://www.coursera.org/instructor/balajis">Balaji S. Srinivasan</a> and <a href="https://www.coursera.org/instructor/vijaypande">Vijay S. Pande</a> at Stanford University.</p>
+
+<p>My main reasons for signing up to the course were to learn more about JavaScript-based technologies like node.js, and more generally to fill gaps in my own knowledge related to best practices in web development.</p>
+
+<p>I&rsquo;ve only seen the videos for the first lecture, but so far it looks good. I was positively surprised by Srinivasans notes on the history of startups, connecting the decline of the Soviet Union to the Internet Startups of the 1990s. In other words, it seems like the course will have a fairly broad horizon &ndash; it&rsquo;s not just about technology. Srinivasan himself stated it will be 50% technology and 50% &ldquo;philosophy&rdquo;.</p>
+
+<p>I encourage you to <a href="https://www.coursera.org/course/startup">check out the course</a>, which will be running until August 2013. You can find my public GoogleDrive notes for the course <a href="https://docs.google.com/document/d/1ioM7L3XYg1Ud6q3s6m8DjAT0AZbwzZrWjJvpY7l0FYY/edit?usp=sharing">here</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

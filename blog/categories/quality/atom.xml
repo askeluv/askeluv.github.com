@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quality | Thoughts and Data]]></title>
+  <link href="http://askeluv.github.io/blog/categories/quality/atom.xml" rel="self"/>
+  <link href="http://askeluv.github.io/"/>
+  <updated>2014-07-22T21:51:42+02:00</updated>
+  <id>http://askeluv.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Svanevik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[List of Companies Who Provide Data Quality as a Service]]></title>
+    <link href="http://askeluv.github.io/blog/2014/03/18/data-quality-providers/"/>
+    <updated>2014-03-18T21:15:00+01:00</updated>
+    <id>http://askeluv.github.io/blog/2014/03/18/data-quality-providers</id>
+    <content type="html"><![CDATA[<p>Data Quality is important. However, most companies consider activities such as validating postal addresses and identifying duplicates to be outside of their core business. Luckily, investing in software and building up an internal DQ team isn&rsquo;t the only option to improve Data Quality. In many cases, it makes sense to instead have Data Quality as a Service (DQaaS).</p>
+
+<p>Below you&rsquo;ll find a short (but growing) list of companies who offer Data Quality as a service. If you know of any companies who should be added to the list, feel free to <a href="https://twitter.com/intent/tweet?source=webclient&amp;text=%40ASvanevik+%23DQaaS">tweet me your suggestion</a>.</p>
+
+<ul>
+<li><a href="http://acuate.com/">Acuate</a></li>
+<li><a href="http://www.boaweb.com/products/data-quality-as-a-service/">BackOffice Associates</a></li>
+<li><a href="http://www.bisnode.com/International/Products-Solutions/Verify-and-enhance/File-cleaningpreservation/International-Data-Quality--myDQ/">Bisnode</a></li>
+<li><a href="http://instantdq.com/">iDQ</a></li>
+<li><a href="http://www.informaticacloud.com/cloud-dq">Informatica</a></li>
+<li><a href="http://iper.no/?lang=en">Iper Direkte</a></li>
+<li><a href="http://ixsight.com/">Ixsight Technologies</a></li>
+<li><a href="http://www.pb.com/software/Data-Management-and-Quality/">Pitney Bowes</a></li>
+<li><a href="http://www.serviceobjects.com/">Service Objects</a></li>
+<li><a href="http://www.trilliumsoftware.com/home/technology/data-quality-solutions/service/">Trillium Software</a></li>
+<li><a href="http://www.uniserv.com/en/">Uniserv</a></li>
+</ul>
+
+
+<p>Do you know of any companies providing Data Quality as a service?</p>
+
+<p><em>Disclaimer: I do not guarantee for the ability or service level of any of the companies above. You should of course make your own investigations to see if a given provider will fit with your requirements &ndash; or seek advise to make those investigations.</em></p>
+]]></content>
+  </entry>
+  
+</feed>

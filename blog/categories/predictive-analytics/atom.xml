@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Predictive Analytics | Thoughts and Data]]></title>
+  <link href="http://askeluv.github.io/blog/categories/predictive-analytics/atom.xml" rel="self"/>
+  <link href="http://askeluv.github.io/"/>
+  <updated>2014-07-22T21:51:42+02:00</updated>
+  <id>http://askeluv.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Svanevik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Word2vec: Deep Learning Language]]></title>
+    <link href="http://askeluv.github.io/blog/2013/08/27/word2vec-deep-learning-language/"/>
+    <updated>2013-08-27T22:13:00+02:00</updated>
+    <id>http://askeluv.github.io/blog/2013/08/27/word2vec-deep-learning-language</id>
+    <content type="html"><![CDATA[<p><strong>Introducing word2vec</strong></p>
+
+<p>This month, Google open sourced a tool called <a href="https://code.google.com/p/word2vec/">word2vec</a>, described as a &ldquo;tool for computing continuous distributed representations of words&rdquo;, or in the words of <a href="http://gigaom.com/2013/08/16/were-on-the-cusp-of-deep-learning-for-the-masses-you-can-thank-google-later/">Derrick Harris</a> &ldquo;prepackaged deep-learning software designed to understand the relationships between words with no human guidance&rdquo;. You can read more about word2vec in <a href="http://www.forbes.com/sites/netapp/2013/08/19/what-is-deep-learning/">Forbes</a> and on <a href="http://google-opensource.blogspot.co.uk/2013/08/learning-meaning-behind-words.html">Google&rsquo;s blog</a>.
+Now, you might already find those descriptions motivation enough to take word2vec for a spin, but if not, here&rsquo;s a concrete example on what word2vec is capable of. Using word2vec, your computer can learn a representation of words where the following two analogical relationships are true:</p>
+
+<p>king &ndash; man + woman = queen</p>
+
+<p>Paris &ndash; France + Italy = Rome</p>
+
+<p>&hellip;Without being explicitly told to look for them! Specifically, word2vec gives you numerical representations of words, in the form of vectors, so that every word lives in a high-dimensional space, and can be compared by distance in that space (along the different dimensions). This itself isn&rsquo;t new; <a href="http://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">Latent Dirichlet Allocation</a> also does this, but the way this space is constructed, is.</p>
+
+<p>Now, why would we want numerical representations of words in the first place?</p>
+
+<p><strong>Text is hard, numbers are easy</strong></p>
+
+<p>Firstly, if you&rsquo;ve ever worked with text as a data scientist, you&rsquo;ll know that it&rsquo;s hard. Depending on your task, you&rsquo;ll run into all sorts of problems getting useful information out of text only using a computer (and not your own brain &ndash; that&rsquo;s cheating!).</p>
+
+<p>Secondly, numbers are easy. You can find relationships in them, measure correlations, derive new numbers from them, visualise them, and so on. So obviously, converting words into numbers is a good idea!</p>
+
+<p>In a way, it sounds ironic that text is hard, since as human beings we communicate through text everyday (in fact, it&rsquo;s a good example of <a href="http://en.wikipedia.org/wiki/Moravec's_paradox">Moravec&rsquo;s paradox</a>)! However, when you let your computer at a piece of text, it doesn&rsquo;t really have any conceptual framework to put the text into, and thus never really gets off the ground in understanding it. Word2vec is a step in the right direction to give your computer that missing conceptual framework.</p>
+
+<p><strong>Using word2vec</strong></p>
+
+<p>If we&rsquo;re doing predictive modeling, say, in a <a href="http://www.kaggle.com/">Kaggle competition</a>, we&rsquo;re generally trying to take some input data (say, your age and sex) and predict some output variable (e.g. the probability that you&rsquo;ll crash your car in the next year). Now, if your input data were your diary (in some horrible world where insurance companies secretly read your diary), how could a computer use that to determine your crash probability &ndash; assuming you can&rsquo;t just read them all manually?</p>
+
+<p>Step one would be to deduce useful features from your diary. The simplest features would be simple statistical ones such as how long entries your write on average, how often you write entries, how many different words you use, etc. The more interesting ones would be based on the content of your entries. This is where word2vec comes in. With word2vec, every word in your journal is a data point.</p>
+
+<p>What use cases for word2vec do you see?</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Productivity | Thoughts and Data]]></title>
+  <link href="http://askeluv.github.io/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://askeluv.github.io/"/>
+  <updated>2014-07-22T21:51:42+02:00</updated>
+  <id>http://askeluv.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Svanevik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[6 Things I Use Evernote For]]></title>
+    <link href="http://askeluv.github.io/blog/2014/04/06/6-things-i-use-evernote-for/"/>
+    <updated>2014-04-06T12:44:00+02:00</updated>
+    <id>http://askeluv.github.io/blog/2014/04/06/6-things-i-use-evernote-for</id>
+    <content type="html"><![CDATA[<p>I use Evernote for &ldquo;Personal Information Management&rdquo; (PIM) aka &ldquo;keeping track of things in your life&rdquo;. Simply put, Evernote is essentially an extension of my brain.</p>
+
+<p>I have two basic requirements for a PIM system:</p>
+
+<ol>
+<li>It must be fast and easy to <em>store</em> information</li>
+<li>It must be fast and easy to <em>retrieve</em> information</li>
+</ol>
+
+
+<p>Based on these requirements, Evernote is the best PIM tool I&rsquo;ve come across. Still, many people find it difficult to get off the ground with Evernote, so I thought I&rsquo;d share some ideas that I&rsquo;ve built up over the last few months.</p>
+
+<p>Here are <em>6 things I use Evernote for</em>:</p>
+
+<p><strong>1. Physical-notebook substitute</strong></p>
+
+<p>The obvious one. I used to carry Moleskines around, mainly to jot down ideas. In some situations I still do, but now I never have to worry about remembering to bring one with me, and where to store it when I&rsquo;m out of pages.</p>
+
+<p><strong>2. Storing things I find online</strong></p>
+
+<p>Articles, tables, graphs, anything! Just use the <a href="http://evernote.com/webclipper/">Web Clipper plugin</a> and you&rsquo;ll save it in a flash. Recently, I was reading up on <a href="http://en.wikipedia.org/wiki/Classified_advertising">classified advertising</a>, and every article I found on the topic, I tagged with &ldquo;classifieds&rdquo; (in addition to other relevant tags for the article). Now I have a small research bank with highlighted articles on the topic, which I can re-visit when I need to. Again: simple to store, simple to retrieve.</p>
+
+<p>Also, very often I find articles I don&rsquo;t have time to read. Evernote Web Clipper solves this for me in a nice way: Clip, then tag the article with &ldquo;to read&rdquo; (plus other relevant tags), and change the tag to &ldquo;read&rdquo; when you&rsquo;ve read it.</p>
+
+<p><strong>3. Digitizing paper documents</strong></p>
+
+<p>Typical scenario: Find letter in post box. Rip it open. Skim it. Take a photo. Store in Evernote. Tag it. Maybe add a reminder. Then the best part: <em>throw the letter away</em>. Ah. Doesn&rsquo;t that feel nice?!</p>
+
+<p><strong>4. Todos</strong></p>
+
+<p>Evernote is not great for todos in itself, but here&rsquo;s the method I use on my work laptop. Have one note per week, and simply copy that note every new week, moving things you didn&rsquo;t get done last week over to your new note. Here&rsquo;s an example:
+<img src="/images/EvernoteTODO_Example.png" title="TODO example" ></p>
+
+<p>A nice bonus feature if you have a tablet: try the presentation view of your last week&rsquo;s completed tasks. Your accomplishments have never looked better!</p>
+
+<p><strong>5. Language learning</strong></p>
+
+<p>I also use Evernote to build vocabulary in foreign languages. The method is simple: again, create one note per week (e.g. &ldquo;French Vocab Week 16&rdquo;), and add new words as you go! Example:
+<img src="/images/EvernoteLanguage_Example.png" title="Language example" ></p>
+
+<p>It&rsquo;s a nice way to <em>situate</em> your learning &ndash; that is, you&rsquo;ll be able to register when and where you learned a given word. You can also easily keep track of your learning goals: how many new words did I learn last week, etc.. Also, you can set reminders to notes so you revise the words you jot down.</p>
+
+<p><strong>6. Journal keeping</strong></p>
+
+<p>I&rsquo;m not able to do one entry per day, but if I have 10 minutes to spare at the end of the day, I sometimes spend those minutes on a journal entry. There are a few Evernote journal apps around, but I&rsquo;m fine with just using the title to timestamp my note, then tagging it with &ldquo;journal&rdquo;.</p>
+
+<p><strong>Bonus: Procrastination</strong></p>
+
+<p>Think about it, if you accept you will have some amount of procrastination in your life, why not do something useful? I have tags for retrieving content from my Evernote when I&rsquo;m bored. I already mentioned &ldquo;to read&rdquo;, but &ldquo;ideas&rdquo; is another good one. Reading your own ideas and developing them further is obviously good fun. If you&rsquo;re learning a new language, &ldquo;vocab week&rdquo; is another good tag to have when you&rsquo;d normally be wasting time on your smartphone.</p>
+
+<p><strong>Summary</strong></p>
+
+<p>The common theme of the things listed above is that they all give me a better conscience. I worry less about ideas going lost, not finding useful web content again, letters needing archiving, tasks being forgotten, not spending enough time building vocabulary, my journal being empty, and precious time being wasted on mindless smartphone fiddling.</p>
+
+<p>I&rsquo;ve mentioned some things I use Evernote for, and I hope you&rsquo;ve learned something useful from reading this. I would love to hear your favourite Evernote tips, so: What do you use Evernote for?</p>
+
+<p><em>Fun fact: this blog post was written on my iPhone while flying from Oslo to Frankfurt using &hellip; Evernote, of course.</em></p>
+]]></content>
+  </entry>
+  
+</feed>
