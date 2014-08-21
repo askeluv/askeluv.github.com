@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Productivity | Thoughts and Data]]></title>
   <link href="http://askeluv.github.io/blog/categories/productivity/atom.xml" rel="self"/>
   <link href="http://askeluv.github.io/"/>
-  <updated>2014-08-19T23:33:10+02:00</updated>
+  <updated>2014-08-21T10:15:47+02:00</updated>
   <id>http://askeluv.github.io/</id>
   <author>
     <name><![CDATA[Alexander Svanevik]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Using Music To Learn A Foreign Language]]></title>
-    <link href="http://askeluv.github.io/blog/2014/08/19/using-music-to-learn-a-foreign-language/"/>
-    <updated>2014-08-19T22:32:00+02:00</updated>
-    <id>http://askeluv.github.io/blog/2014/08/19/using-music-to-learn-a-foreign-language</id>
-    <content type="html"><![CDATA[<p>The other day I picked up one of my favourite albums that I hadn&rsquo;t listened to in years: <a href="http://open.spotify.com/album/36fWvul2SzklDegMxkLRyC">Sim by Vanessa da Mata</a>. I don&rsquo;t really speak Portuguese, but I was surprised to find that I knew almost all of the lyrics by heart. After considering it a bit, I concluded that this wasn&rsquo;t very surprising at all. Just think about how many people around the world have learned their first English words from Beatles songs! (&hellip;or from <a href="https://www.youtube.com/watch?v=FQt-h753jHI">Mariah Carey songs</a>)</p>
+    <link href="http://askeluv.github.io/blog/2014/08/21/using-music-to-learn-a-foreign-language/"/>
+    <updated>2014-08-21T10:15:00+02:00</updated>
+    <id>http://askeluv.github.io/blog/2014/08/21/using-music-to-learn-a-foreign-language</id>
+    <content type="html"><![CDATA[<p>The other day I picked up one of my favourite albums that I hadn&rsquo;t listened to in years, <a href="http://open.spotify.com/album/36fWvul2SzklDegMxkLRyC">Sim by Vanessa da Mata</a>. I don&rsquo;t really speak Portuguese, but I was surprised to find that I knew almost all of the lyrics by heart. After considering it a for a while, I concluded that this wasn&rsquo;t very surprising at all. Just think about how many people around the world have learned their first English words from Beatles songs. (&hellip;or from <a href="https://www.youtube.com/watch?v=FQt-h753jHI">Mariah Carey songs</a>)</p>
 
 <p>Surely music is a great way to immerse yourself in a new language.</p>
 
@@ -30,7 +30,7 @@
 
 <p><img src="/images/spanish_songs_num_words.png" title="Number of Words" ></p>
 
-<p>Of course, this isn&rsquo;t perfect, but it tells us something about the <em>effort</em> involved in learning a song. &ldquo;Vuelvo al Sur&rdquo; will most likely take less time to learn than &ldquo;Na en la nevera&rdquo;. So I placed the former first in my playlist.</p>
+<p>Of course, this isn&rsquo;t perfect, but it tells us something about the <em>effort</em> involved in learning a song. &ldquo;Vuelvo al Sur&rdquo; will most likely take less time to learn than &ldquo;Na en la nevera&rdquo;. So I placed the former at the top of my playlist.</p>
 
 <p>But what about the actual <em>content</em> of the songs? Surely some songs have a more challenging vocabulary than others?</p>
 
@@ -38,11 +38,11 @@
 
 <p>The frequency list I used is based on movie subtitles <a href="http://invokeit.wordpress.com/frequency-word-lists/">available here</a>, which I believe is fairly close to casual, spoken language.</p>
 
-<p>Now, the idea is to look up each word in a song in the frequency list, and get its rank (its &ldquo;word rank&rdquo;). As an example, in my Spanish frequency list, &ldquo;que&rdquo; is the most common word, and thus has word rank = 1. The word &ldquo;nuevo&rdquo; has word rank = 200, meaning there are 199 words that are more frequent than it, and so on.</p>
+<p>Now, the idea is to look up each word in a song in the frequency list, and get its rank (its &ldquo;word rank&rdquo;). As an example, in my Spanish frequency list, &ldquo;que&rdquo; is the most common word, which means it has word rank = 1. The word &ldquo;nuevo&rdquo; has word rank = 200, meaning there are 199 words that are more frequent than it, and so on.</p>
 
 <p>We compute the word rank for every (unique) word in a song, and then compute the <em>median</em> word rank.</p>
 
-<p>So what does this tell us? Let&rsquo;s say the median word rank is 500 for a given song. This means that 50% of the words in that song will be among the 500 most frequent words. In other words, a large part of the words are &ldquo;easy&rdquo;, frequent words, and thus we conclude that the song&rsquo;s lyrics are <em>probably</em> not very hard to understand.</p>
+<p>So what does this tell us? Let&rsquo;s say the median word rank is 500 for a given song. This means that 50% of the words in that song will be among the 500 most frequent words. In other words, a large part of the words are &ldquo;easy&rdquo;, frequent words, so we conclude that the song&rsquo;s lyrics are <em>probably</em> not very hard to understand.</p>
 
 <p>Here are the same songs as above, now ranked by median word rank:</p>
 
@@ -67,11 +67,11 @@
 </ol>
 
 
-<p>I might be stretching it with my interpretations of <em>Q2</em> and <em>Q4</em>, but in any case there&rsquo;s a trade-off between them: more effort required to learn more useful words for songs in <em>Q4</em> vs less effort required to learn less useful words in <em>Q2</em>.</p>
+<p>I might be stretching it with my interpretations of <em>Q2</em> and <em>Q4</em>, but in any case there&rsquo;s a trade-off between them; Q4 means more effort required to learn more useful words, while Q2 means less effort required to learn less useful words.</p>
 
 <p>My personal choice would be to learn <em>Q3</em> (<em>easy</em>) songs first, <em>Q1</em> (<em>hard</em>) songs last, and then randomly pick <em>Q2</em> and <em>Q4</em> in between.</p>
 
-<p><strong>What do you think about this approach to learning language? And have you ever used music to learn a language?</strong></p>
+<p><strong>What do you think about this approach to learning languages? And have you ever used music to learn a language?</strong></p>
 ]]></content>
   </entry>
   
