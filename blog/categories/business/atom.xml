@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Business | Thoughts and Data]]></title>
+  <link href="http://askeluv.github.io/blog/categories/business/atom.xml" rel="self"/>
+  <link href="http://askeluv.github.io/"/>
+  <updated>2014-09-18T22:14:53+02:00</updated>
+  <id>http://askeluv.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Svanevik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Money Talks: A Cynical Approach To Language Learning]]></title>
+    <link href="http://askeluv.github.io/blog/2014/09/18/money-talks-a-cynical-approach-to-language-learning/"/>
+    <updated>2014-09-18T22:03:00+02:00</updated>
+    <id>http://askeluv.github.io/blog/2014/09/18/money-talks-a-cynical-approach-to-language-learning</id>
+    <content type="html"><![CDATA[<p>Problem: You want to learn a new language but don&rsquo;t know which one.</p>
+
+<p>You could pick a language that many people speak, or one that sounds nice. Or, you could be a bit more cynical and <strong>pick one that gives you access to cash</strong>.</p>
+
+<p>Let&rsquo;s try this rough and simple approach: sum up the GDP per language instead of country, creating a sort of &ldquo;GLP &ndash; Gross Linguistic Product&rdquo;.</p>
+
+<p>Using this approach, here are the top 12 GDP Languages:
+<img src="/images/gdp_languages.png" title="Top 12 GDP Languages" ></p>
+
+<p>English is the unsurprising winner, but there are a few other things to note. If we compare our graph to <a href="http://unicode.org/notes/tn13/">a more carefully done study from 2003</a>, we find the following differences</p>
+
+<ul>
+<li>Hindi has climbed from 11th (2.3% of total GDP) to 4th (5.83%), but this jump is due to a methodological difference (read: laziness on my part). For simplicity, I&rsquo;ve lumped ALL of India&rsquo;s GDP into Hindi, when in reality it would make more sense to distribute the GDP across more of India&rsquo;s spoken languages. If we correct by the factor used in the study mentioned above (40%), then we arrive at 2.4% &ndash; meaning Hindi has had little change since 2002.</li>
+<li>Chinese has increased its % of total GDP from 12.5% to 15.9%, but it&rsquo;s still in 2nd place, and the study above predicted Chinese to be at 22.8% by 2010, which seems to have been overly optimistic on behalf of Chinese.</li>
+<li>Spanish has surpassed Japanese by a mile</li>
+</ul>
+
+
+<p>Let&rsquo;s be a bit more direct.</p>
+
+<p>What if you&rsquo;re a golddigger, and you&rsquo;d like to speak the language of the rich? Which language should you then choose?</p>
+
+<p>Here are the top 12 GDP-per-speaker languages:
+<img src="/images/gdp_languages_per_speaker.png" title="Top 12 GDP Languages" ></p>
+
+<p>Let&rsquo;s ignore the fact that Norwegian is the winner for a moment, and instead observe that the top 6 languages are <em>all Germanic languages</em>! In other words, learning one of those might be a good idea, if you&rsquo;re mainly in it for the money.</p>
+
+<p><strong>What do you think is important when choosing which language to learn?</strong></p>
+]]></content>
+  </entry>
+  
+</feed>
