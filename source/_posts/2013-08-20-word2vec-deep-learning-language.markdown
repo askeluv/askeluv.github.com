@@ -3,7 +3,7 @@ layout: post
 title: "Word2vec: Deep Learning Language"
 date: 2013-08-27 22:13
 comments: true
-categories: [Google, Text Mining, Natural Language Processing, Predictive Analytics]
+categories: [Google, Text Mining, Natural Language Processing, Predictive Analytics, Language]
 ---
 
 **Introducing word2vec**
