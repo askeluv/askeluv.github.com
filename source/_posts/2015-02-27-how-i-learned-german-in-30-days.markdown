@@ -12,7 +12,7 @@ This post is my summary of an experiment I started in January 2015: **Learn Germ
 Before starting, I feel obliged to list a few disclaimers:
 
 - "I learned German" means I can have basic conversations in German, as well as understand German fairly well (both written and spoken). I have definitely not learned how to speak German perfectly.
-- I do not claim originality of everything in this text; I've been heavily inspired by the writings of other language learners such as [Barry Farber](http://www.amazon.com/How-Learn-Language-Barry-Farber/dp/1567315437) and [Benny Lewis](http://www.amazon.com/Fluent-Months-Anyone-Language-Anywhere/dp/0062282697/ref=sr_1_1?s=books&ie=UTF8&qid=1425074701&sr=1-1&keywords=benny+language)
+- I do not claim originality of everything in this text; I've been heavily inspired by the writings of other language learners such as [Barry Farber](http://www.amazon.com/How-Learn-Language-Barry-Farber/dp/1567315437) and [Benny Lewis](http://www.amazon.com/Fluent-Months-Anyone-Language-Anywhere/dp/0062282697/ref=sr_1_1?s=books&ie=UTF8&qid=1425074701&sr=1-1&keywords=benny+language).
 - My native language is Norwegian. This gave me somewhat of an advantage as it is linguistically closely related to German.
 
 If you want to learn a language as quickly as possible, you should keep reading. In addition to giving some general tips, and hopefully inspiration, I've created some resources that I'll share in this text which will help you learn German fast. 
@@ -58,7 +58,7 @@ Specifically what I did to speak from day 1 was to find some friends who either 
 
 In order to be able to stay in our target language (... German), and not revert back to English or Norwegian, I created a [Cheat Sheet](https://docs.google.com/spreadsheets/d/1TqjM4xdUVeFa32wjTSoswbZenozwz3DJAmzzbWoJZdM/edit?usp=sharing) containing essential phrases. This sheet prevented me from getting blocked and generally proved incredibly useful in our online conversations.
 
-Following the "language is a muscle" analogy, I also repeated out loud anything I heard or read in German when studying on my own. Compared to only passively receiving German, I think this really makes a difference for strengthening those German synapses in your brain.
+Following the "language is a muscle" analogy, I also repeated out loud anything I heard or read in German when studying on my own. Compared to only passively "receiving" (listening, reading) German, I think this really makes a difference for strengthening those German synapses in your brain.
 
 ####3. Focus on frequent words
 
@@ -68,7 +68,7 @@ If you're not familiar with [Zipf's law](http://en.wikipedia.org/wiki/Zipf%27s_l
 
 *Illustration of Zipf's laws borrowed from [this](http://www.slideshare.net/cowdung112/info-2402-irtchapter4) presentation.*
 
-I found a list of the most frequent words in German subtitles [here](https://invokeit.wordpress.com/frequency-word-lists/), and created my own [GoogleDocs spreadsheet](http://bit.ly/german-top-1000) with the 1000 most frequent words. These words account for ~75% of all words in German subtitles. My simple task then was to fill out the "meaning" column for every word before my 30 days had passed. In other words, I had to learn about 30 words per day. I made heavy use of cognates from English and Norwegian in order to learn them, and I exported the words I had learned to [Anki](http://ankisrs.net/) about once per week so I could make sure I didn't forget them.
+I found a list of the most frequent words in German subtitles [here](https://invokeit.wordpress.com/frequency-word-lists/), and created my own [GoogleDocs spreadsheet](http://bit.ly/german-top-1000) with the 1000 most frequent words. These words account for ~75% of all words in German subtitles. My simple task then was to fill out the "meaning" column for every word before my 30 days had passed. In other words, I had to learn about 30 words per day. I made heavy use of cognates from English and Norwegian in order to learn them, and I exported the words I had learned to [Anki](http://ankisrs.net/) about once a week so I could make sure I didn't forget them.
 
 The frequency list is one of the things I did that worked best. It served as a nice anchor that I could centre my learning around.
 
@@ -88,7 +88,7 @@ Picking the lyrics up from just listening to the songs is hard, so I would study
 
 ####5. Keep track
 
-My [Top 1000 Words spreadsheet](http://bit.ly/german-top-1000) was great for knowing roughly how many words I knew at any given point. Since I had the frequency of each word, I could compute the total "mass" of German that I knew - not just the total number of words, which I found to be quite motivating.
+My [Top 1000 Words spreadsheet](http://bit.ly/german-top-1000) was great for knowing roughly how many words I knew at any given point. Since I had the frequency of each word, I could compute the total "mass" of German that I knew - not just the total number of words - which I found to be quite motivating.
 
 I also kept a simple diary in [Evernote](https://evernote.com/) listing my activities per day. In the end there was only one day when I didn't do anything at all.
 
@@ -98,7 +98,7 @@ I also kept a simple diary in [Evernote](https://evernote.com/) listing my activ
 
 I followed a course called [RocketLanguages](http://www.rocketlanguages.com/german/), but I only completed the first 3 modules.
 
-On day 27, I started Duolingo and managed to test in at level 10, which I was quite pleased with.
+On day 27, I started Duolingo and managed to test in at level 10. Not bad!
 
 I almost didn't do any grammar study, which I think was a good decision since I only had 30 days, and had no ambitions of speaking perfectly. One thing I would have liked to do in order to learn the German cases, though, is a set of 4 sentences of the type "The man gave the book to the boy" - one sentence for each gender + plural. Memorizing these four sentences would then probably have been a lot easier than trying to remember a case table.
 
